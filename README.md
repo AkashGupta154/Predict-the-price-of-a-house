@@ -1,12 +1,12 @@
 # Predict-the-price-of-a-house
 Problem statement: The goal is to understand the relationship between house features and how these variables affect the house price. Using more than one model, predict the price of the house using the given dataset. 
 
-# Steps Involved in the prediction of House Price Based on features 
-1 - importing libraries 
-2 - load Dataset
-3 - Load Summarize or EDA
-4- 
-# Here the distribution of all the Numeric Varibale
+### Steps Involved in the prediction of House Price Based on features 
+-1 - importing libraries 
+-2 - load Dataset
+-3 - Load Summarize or EDA
+-4- 
+#### Here the distribution of all the Numeric Varibale
 
 ![download](https://user-images.githubusercontent.com/100993371/204781159-c9fb9140-4c33-4485-a662-fff5eae035cc.png)
 
@@ -31,3 +31,9 @@ the model, Here we will not transform the dependent variables.
 
 ### Random Forest Regressor
 ![download](https://user-images.githubusercontent.com/100993371/204783751-7357d910-402a-4477-b49d-1cec24dfa36f.png)
+
+-Accuracy Score/metrics of Linear Regression is Test 7.454135914547555 , Train 9.097513878212775
+-Accuracy Score of Decision Tree Regression is 7.789184274421779
+-Accuracy Score of Random Forest Regression is 5.782578483890736
+
+So Linear Regression algorithms is quite better than the other two algorithm on the given house dataset in Accuracy and performance.
