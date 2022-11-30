@@ -5,11 +5,14 @@ Problem statement: The goal is to understand the relationship between house feat
 1 - importing libraries 
 2 - load Dataset
 3 - Load Summarize or EDA
-4 - # Here the distribution of all the Numeric Varibale
+4- 
+# Here the distribution of all the Numeric Varibale
 
 ![download](https://user-images.githubusercontent.com/100993371/204781159-c9fb9140-4c33-4485-a662-fff5eae035cc.png)
 
 5 - Visualizing the location of the houses based on latitude and longitude.
+
+![download](https://user-images.githubusercontent.com/100993371/204783584-4408094e-fbf6-44d7-a7ee-031e204fa621.png)
 
 6 - Split the dataset into train and test
 7 - Standardize the data
@@ -20,6 +23,11 @@ the model, Here we will not transform the dependent variables.
 
 8 -  model deployment : Here I used regression algorithm like Linear Regression , Random Forest regression, Decision Tree regressor based on their accuracy and performs 
 # Linear Regression 
+![download](https://user-images.githubusercontent.com/100993371/204783674-b0ebf25d-de3a-40c3-8e7f-e9ee86d59486.png)
+
+### Decision Tree Regression
+![download](https://user-images.githubusercontent.com/100993371/204783709-5f47e16f-f8c0-414a-9dfc-c612a918f138.png)
 
 
-
+### Random Forest Regressor
+![download](https://user-images.githubusercontent.com/100993371/204783751-7357d910-402a-4477-b49d-1cec24dfa36f.png)
